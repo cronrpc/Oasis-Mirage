@@ -11,7 +11,7 @@
 
 Try it now and see the magic happen in front of your eyes. 🎮
 
-[Check out MirageLSD on Decart.AI](https://decart.ai/miragelsd)
+[Check out MirageLSD on Decart.AI](https://mirage.decart.ai/)
 
 ## How it Works
 
