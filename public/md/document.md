@@ -6,7 +6,7 @@ Download Unity, clone this GitHub repository, and then run the game.
 
 ## Open Website
 
-Visit [https://mirage.decart.ai/](https://mirage.decart.ai/), then select **Window mode** under **Share Screen**. Find the game window and click **Share**.
+Visit [mirage](https://mirage.decart.ai/), then select **Window mode** under **Share Screen**. Find the game window and click **Share**.
 
 ![alt text](image.png)
 
