@@ -63,8 +63,4 @@ This project is still in an early demonstration phase. While it is fully playabl
 
 Feel free to open issues, fork the repo, and submit your contributions. If you have any ideas, features, or bugs you'd like to report, please don't hesitate to reach out.
 
-# GitHub Stars Growth 📈
-
-[![Star History Chart](https://api.star-history.com/svg?repos=cronrpc/Oasis-Mirage&type=Date)](https://www.star-history.com/#cronrpc/Oasis-Mirage&Date)
-
 Thank you for supporting the project! ⭐
