@@ -50,6 +50,10 @@ Try it now and see the magic happen in front of your eyes. 🎮
 ## Current Status
 This project is still in an early demonstration phase. While it is fully playable, there are ongoing improvements and optimizations. Expect regular updates and enhancements as we continue to refine this exciting technology!
 
+## Documents
+
+Document: [How To Play](public/md/document.md)
+
 ## Contribution
 
 Feel free to open issues, fork the repo, and submit your contributions. If you have any ideas, features, or bugs you'd like to report, please don't hesitate to reach out.
