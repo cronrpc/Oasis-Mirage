@@ -13,6 +13,8 @@ Try it now and see the magic happen in front of your eyes. 🎮
 
 [Check out MirageLSD on Decart.AI](https://mirage.decart.ai/)
 
+At the moment, Decart doesn't offer a built-in API for integration, but the game is fully playable. In the future, if they release an API or if other similar open-source solutions become available, I’ll look into improving the integration.
+
 ## How it Works
 
 - **White-box to Video**: We turn your basic geometric assets into stunning video game landscapes, and the best part is, it happens in real time.
