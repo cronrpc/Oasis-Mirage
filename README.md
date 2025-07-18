@@ -34,20 +34,11 @@ Try it now and see the magic happen in front of your eyes. 🎮
 ## Demo Videos
 ### Check out these short clips to see how the transformation works in real-time!
 
-<video width="768" height="432" controls>
-  <source src="https://github.com/cronrpc/Oasis-Mirage/blob/main/public/videos/video01.mp4?raw=true" type="video/mp4">
-  Video Demo 01
-</video>
+![Video Demo 1](public/videos/video01.gif)
 
-<video width="768" height="432" controls>
-  <source src="https://github.com/cronrpc/Oasis-Mirage/blob/main/public/videos/video02.mp4?raw=true" type="video/mp4">
-  Video Demo 02
-</video>
+![Video Demo 2](public/videos/video02.gif)
 
-<video width="768" height="432" controls>
-  <source src="https://github.com/cronrpc/Oasis-Mirage/blob/main/public/videos/video03.mp4?raw=true" type="video/mp4">
-  Video Demo 03
-</video>
+![Video Demo 3](public/videos/video03.gif)
 
 ## Advantages of MirageLSD Integration
 
