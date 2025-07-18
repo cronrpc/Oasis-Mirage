@@ -1,5 +1,10 @@
 # How to Play?
 
+At the moment, Decart doesn't offer a built-in API for integration, but the game is fully playable. 
+
+In the future, if they release an API or if other similar open-source solutions become available, I’ll look into improving the integration.
+
+
 ## Install
 
 Download Unity, clone this GitHub repository, and then run the game.
